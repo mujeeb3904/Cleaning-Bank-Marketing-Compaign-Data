@@ -9,3 +9,4 @@ cleaned_data/: Final CSV files ready for database import:
 -campaign_data.csv
 -customer_data.csv
 -loan_data.csv
+
